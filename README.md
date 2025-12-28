@@ -3,6 +3,8 @@ Easy contacts for Grandma
 
 Submitted to MAximally vibe-a-thon
 
+video link: https://youtu.be/-ydgVogxRZw
+
 Run code online at: https://snack.expo.dev/
 
 copy and past the code in the editor and add all dependencies and run it on the web
